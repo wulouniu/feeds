@@ -11,3 +11,16 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+
+[yatzer]
+title = "Yatzer — Latest Stories"
+url = "https://www.yatzer.com/latest-stories"
+entrySelector = ".story-item"
+titleSelector = "h2"
+linkSelector = "a"
+contentSelector = ".excerpt"
+dateSelector = "time"
+dateFormat = "MMM d, yyyy"
+timeout = 60
+waitUntil = "networkidle"
