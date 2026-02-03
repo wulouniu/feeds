@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-03T06:09:49.607Z</updated>
+    <updated>2026-02-03T18:14:13.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
         <title type="html"><![CDATA[a 17th-century painting]]></title>
-        <id>https://en.wikipedia.org/wiki/Jahangir_With_a_Portrait_of_Akbar</id>
-        <link href="https://en.wikipedia.org/wiki/Jahangir_With_a_Portrait_of_Akbar"/>
-        <updated>2026-02-03T06:09:45.795Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Jahangir_With_a_Portrait_of_Akbar" title="Jahangir With a Portrait of Akbar">a 17th-century painting</a></b> <i>(pictured)</i> may depict the emperor Jahangir listening as a portrait of his dead father speaks to him?]]></content>
+        <id>https://en.wikipedia.org/wiki/Jahangir_with_a_Portrait_of_Akbar</id>
+        <link href="https://en.wikipedia.org/wiki/Jahangir_with_a_Portrait_of_Akbar"/>
+        <updated>2026-02-03T18:14:10.005Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Jahangir_with_a_Portrait_of_Akbar" title="Jahangir with a Portrait of Akbar">a 17th-century painting</a></b> <i>(pictured)</i> may depict the emperor Jahangir listening as a portrait of his dead father speaks to him?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Achmad Soebardjo]]></title>
