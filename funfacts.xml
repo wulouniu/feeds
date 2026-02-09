@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-09T06:40:30.350Z</updated>
+    <updated>2026-02-09T18:09:19.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Immanuel_Iheanacho</id>
         <link href="https://en.wikipedia.org/wiki/Immanuel_Iheanacho"/>
         <updated>2026-02-09T06:40:27.087Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Immanuel_Iheanacho" title="Immanuel Iheanacho">Immanuel Iheanacho</a></b> was measured as a 14-year-old freshman at 6&nbsp;ft 6&nbsp;in (1.98&nbsp;m) and 325&nbsp;lb (147&nbsp;kg), with a 7&nbsp;ft (2.1&nbsp;m) wingspan?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Immanuel_Iheanacho" title="Immanuel Iheanacho">Immanuel Iheanacho</a></b> was measured as a 14-year-old freshman at 6&nbsp;ft 6&nbsp;in (1.98&nbsp;m) and 325&nbsp;lb (147&nbsp;kg), with a 7&nbsp;ft (2.1&nbsp;m) <a href="/wiki/Arm_span" title="Arm span">wingspan</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mecki]]></title>
