@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-02-10T06:40:47.099Z</updated>
+    <updated>2026-02-10T18:16:13.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/James_I._Hopkins_Jr.</id>
         <link href="https://en.wikipedia.org/wiki/James_I._Hopkins_Jr."/>
         <updated>2026-02-10T06:40:43.680Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/James_I._Hopkins_Jr." title="James I. Hopkins Jr.">James I. Hopkins Jr.</a></b>, who signed the order to bomb Hiroshima, mysteriously disappeared without a trace?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/James_I._Hopkins_Jr." title="James I. Hopkins Jr.">James I. Hopkins Jr.</a></b>, who signed the order to bomb Hiroshima, disappeared without a trace?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quintana atrizona]]></title>
