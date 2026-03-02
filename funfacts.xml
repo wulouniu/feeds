@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-02T06:09:50.351Z</updated>
+    <updated>2026-03-02T18:02:38.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Liz_Pelly</id>
         <link href="https://en.wikipedia.org/wiki/Liz_Pelly"/>
         <updated>2026-03-02T06:09:46.867Z</updated>
-        <content type="html"><![CDATA[... that in 2025, <b><a href="/wiki/Liz_Pelly" title="Liz Pelly">Liz Pelly</a></b> published the book <i>Mood Machine</i>, a critical examination of Spotify including the platform's promotion of fake artists?]]></content>
+        <content type="html"><![CDATA[... that in 2025, <b><a href="/wiki/Liz_Pelly" title="Liz Pelly">Liz Pelly</a></b> published the book <i><a href="/wiki/Mood_Machine" title="Mood Machine">Mood Machine</a></i>, a critical examination of Spotify including the platform's <a href="/wiki/Controversy_over_fake_artists_on_Spotify" title="Controversy over fake artists on Spotify">promotion of fake artists</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aeao]]></title>
