@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-10T06:04:13.646Z</updated>
+    <updated>2026-03-10T18:05:47.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://en.wikipedia.org/wiki/Friendlyjordies</id>
         <link href="https://en.wikipedia.org/wiki/Friendlyjordies"/>
         <updated>2026-03-10T06:04:10.139Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Friendlyjordies" title="Friendlyjordies">Jordan Shanks</a></b><span class="nowrap">'s</span> house was firebombed after he published a YouTube video about the <a href="/wiki/Alameddine_crime_network" title="Alameddine crime network">Alameddine crime family</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Friendlyjordies" title="Friendlyjordies">Jordan Shanks</a></b><span class="nowrap">'s</span> house was firebombed after he published a YouTube video about organized crime?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Whetwhetaksidae]]></title>
@@ -66,6 +66,6 @@
         <id>https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1235%E2%80%931236)</id>
         <link href="https://en.wikipedia.org/wiki/Siege_of_Constantinople_(1235%E2%80%931236)"/>
         <updated>2026-03-10T06:04:10.152Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Ivan_Asen_II" title="Ivan Asen II">Tsar Asen</a> interpreted the sudden death of his wife and child as divine punishment for breaking his alliance during the <b><a href="/wiki/Siege_of_Constantinople_(1235%E2%80%931236)" title="Siege of Constantinople (1235–1236)">1235–1236 siege of Constantinople</a></b>?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Ivan_Asen_II" title="Ivan Asen II">Tsar Asen</a> interpreted the sudden deaths of his wife and child as divine punishment for breaking his alliance during the <b><a href="/wiki/Siege_of_Constantinople_(1235%E2%80%931236)" title="Siege of Constantinople (1235–1236)">1235–1236 siege of Constantinople</a></b>?]]></content>
     </entry>
 </feed>
