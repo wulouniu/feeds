@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-12T06:09:10.134Z</updated>
+    <updated>2026-03-12T18:07:11.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
-        <title type="html"><![CDATA[a drummer who had to play one handed]]></title>
+        <title type="html"><![CDATA[a drummer who once had to play one-handed]]></title>
         <id>https://en.wikipedia.org/wiki/Andrew_Ranken</id>
         <link href="https://en.wikipedia.org/wiki/Andrew_Ranken"/>
         <updated>2026-03-12T06:09:06.679Z</updated>
-        <content type="html"><![CDATA[... that the Pogues once had <b><a href="/wiki/Andrew_Ranken" title="Andrew Ranken">a drummer who had to play one handed</a></b> <i>(pictured)</i> while recovering from blood poisoning?]]></content>
+        <content type="html"><![CDATA[... that the Pogues had <b><a href="/wiki/Andrew_Ranken" title="Andrew Ranken">a drummer who once had to play one-handed</a></b> <i>(pictured)</i> while recovering from blood poisoning?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Colección de Lenguas Indígenas]]></title>
