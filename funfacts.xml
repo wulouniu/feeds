@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-27T06:42:55.382Z</updated>
+    <updated>2026-03-27T18:08:47.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Apumanque_Mall</id>
         <link href="https://en.wikipedia.org/wiki/Apumanque_Mall"/>
         <updated>2026-03-27T06:42:52.066Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Apumanque_Mall" title="Apumanque Mall">Apumanque Mall</a></b> <i>(pictured)</i> is the oldest shopping mall in Chile?]]></content>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Apumanque_Mall" title="Apumanque Mall">Apumanque Mall</a></b> <i>(pictured)</i> had a 70 metre art installation, made out of steel and lighting?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alice Sollier]]></title>
