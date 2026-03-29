@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-03-29T06:39:15.450Z</updated>
+    <updated>2026-03-29T17:54:05.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Michael_Gove</id>
         <link href="https://en.wikipedia.org/wiki/Michael_Gove"/>
         <updated>2026-03-29T06:39:12.102Z</updated>
-        <content type="html"><![CDATA[... that UK MP <b><a href="/wiki/Michael_Gove" title="Michael Gove">Michael Gove</a></b> <i>(pictured)</i> won a televised quiz show before entering politics?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Michael_Gove" title="Michael Gove">Michael Gove</a></b> <i>(pictured)</i>, now a member of the <a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a>, appeared on the television quiz show <i><a href="/wiki/Top_Club" title="Top Club">Top Club</a></i>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hippocampus]]></title>
