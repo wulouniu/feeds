@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-06T07:07:00.151Z</updated>
+    <updated>2026-04-06T18:09:35.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87</id>
         <link href="https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87"/>
         <updated>2026-04-06T07:06:56.952Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87" title="Miloš Vučević">Miloš Vučević</a></b> <i>(pictured)</i> only served in the National Assembly of Serbia for five days?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87" title="Miloš Vučević">Miloš Vučević</a></b> <i>(pictured)</i> served in the National Assembly of Serbia for only five days?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Robert N. Mullin]]></title>
