@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-04-25T06:49:06.232Z</updated>
+    <updated>2026-04-25T18:01:33.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>https://en.wikipedia.org/wiki/Sangza</id>
         <link href="https://en.wikipedia.org/wiki/Sangza"/>
         <updated>2026-04-25T06:49:02.850Z</updated>
-        <content type="html"><![CDATA[... that deep-fried noodles called <b><a href="/wiki/Sangza" title="Sangza">sangza</a></b> are eaten by Uyghur people for <a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> and <a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a>?]]></content>
+        <content type="html"><![CDATA[... that deep-fried noodles called <i><b><a href="/wiki/Sangza" title="Sangza">sangza</a></b></i> are eaten by Uyghur people for <a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> and <a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adam Bernero]]></title>
