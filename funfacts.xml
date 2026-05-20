@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-05-20T08:39:00.968Z</updated>
+    <updated>2026-05-20T19:37:04.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands</id>
         <link href="https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands"/>
         <updated>2026-05-20T08:38:58.136Z</updated>
-        <content type="html"><![CDATA[... that the Trump administration imposed a 10-percent tariff on <b><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">an uninhabited island territory</a></b> home mostly to penguins <i>(examples pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that the Trump administration imposed a 10-percent tariff on <b><a href="/wiki/Heard_Island_and_McDonald_Islands" title="Heard Island and McDonald Islands">an uninhabited island territory</a></b> home to a large number of penguins <i>(examples pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[an American second-rate mare]]></title>
