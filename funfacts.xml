@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-10T09:02:50.229Z</updated>
+    <updated>2026-06-10T19:51:11.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -17,14 +17,14 @@
         <id>https://en.wikipedia.org/wiki/Lone_Jack_mine</id>
         <link href="https://en.wikipedia.org/wiki/Lone_Jack_mine"/>
         <updated>2026-06-10T09:02:47.189Z</updated>
-        <content type="html"><![CDATA[... that the US Army blew up <b><a href="/wiki/Lone_Jack_mine" title="Lone Jack mine">an inactive gold mine</a></b> in secret after finding about 500 cases of dynamite, creating a fireball about 200 feet (61&nbsp;m) in length?]]></content>
+        <content type="html"><![CDATA[... that the US Army blew up <b><a href="/wiki/Lone_Jack_mine" title="Lone Jack mine">an inactive gold mine</a></b> in secret after finding about 500 cases of dynamite, creating a fireball which shot out about 200 feet (60&nbsp;m)?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maria Kalinina]]></title>
         <id>https://en.wikipedia.org/wiki/Maria_Kalinina</id>
         <link href="https://en.wikipedia.org/wiki/Maria_Kalinina"/>
         <updated>2026-06-10T09:02:47.191Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Maria_Kalinina" title="Maria Kalinina">Maria Kalinina</a></b> was so revulsed by playing the villain in a horror movie that she become a vegetarian and a yoga instructor?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Maria_Kalinina" title="Maria Kalinina">Maria Kalinina</a></b> was so revulsed by playing the villain in a horror movie that she became a vegetarian and a yoga instructor?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[future history]]></title>
