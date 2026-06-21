@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-21T09:05:58.568Z</updated>
+    <updated>2026-06-21T18:57:12.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://en.wikipedia.org/wiki/Muhadi_Suyono</id>
         <link href="https://en.wikipedia.org/wiki/Muhadi_Suyono"/>
         <updated>2026-06-21T09:05:55.453Z</updated>
-        <content type="html"><![CDATA[... that Indonesian politician <b><a href="/wiki/Muhadi_Suyono" title="Muhadi Suyono">Muhadi Suyono</a></b> threatened legal action after a Malaysian government website listed <i><a href="/wiki/Reog" title="Reog">reog</a></i> as one of their cultural traditions?]]></content>
+        <content type="html"><![CDATA[... that Indonesian politician <b><a href="/wiki/Muhadi_Suyono" title="Muhadi Suyono">Muhadi Suyono</a></b> threatened legal action after a Malaysian government website listed <i><a href="/wiki/Reog" title="Reog">reog</a></i> as a Malaysian cultural tradition?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eiga.com]]></title>
