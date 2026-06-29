@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-06-29T10:03:32.573Z</updated>
+    <updated>2026-06-29T19:18:57.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/About_Time_(newspaper)" title="About Time (newspaper)">an Australian newspaper</a></b> is mainly written by people who are or have been in prison?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[who was murdered at the age of 27]]></title>
+        <title type="html"><![CDATA[Dominique "Rem'mie" Fells, who was murdered]]></title>
         <id>https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells</id>
         <link href="https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells"/>
         <updated>2026-06-29T10:03:29.293Z</updated>
-        <content type="html"><![CDATA[... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer Dominique "Rem'mie" Fells, <b><a href="/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells" title="Murder of Dominique &quot;Rem'mie&quot; Fells">who was murdered at the age of 27</a></b>?]]></content>
+        <content type="html"><![CDATA[... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer <b><a href="/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells" title="Murder of Dominique &quot;Rem'mie&quot; Fells">Dominique "Rem'mie" Fells, who was murdered</a></b> at the age of 27?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notharctus]]></title>
