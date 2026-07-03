@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-03T08:31:42.225Z</updated>
+    <updated>2026-07-03T18:44:27.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://en.wikipedia.org/wiki/Murder_of_%C3%81ngeles_Rawson"/>
         <updated>2026-07-03T08:31:39.005Z</updated>
         <content type="html"><![CDATA[... that a Buenos Aires public square was renamed in honor of <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Murder_of_Ángeles_Rawson" title="Murder of Ángeles Rawson">a teenager murdered in 2013</a></b>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puerto Paraíso]]></title>
-        <id>https://en.wikipedia.org/wiki/Puerto_Para%C3%ADso</id>
-        <link href="https://en.wikipedia.org/wiki/Puerto_Para%C3%ADso"/>
-        <updated>2026-07-03T08:31:39.010Z</updated>
-        <content type="html"><![CDATA[... that a travel magazine said <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Cabo_San_Lucas" title="Cabo San Lucas">Cabo San Lucas</a> was seen as "a T-shirt town" before <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Puerto_Paraíso" title="Puerto Paraíso">Puerto Paraíso</a></b> opened?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Leon Milton Birkhead]]></title>
