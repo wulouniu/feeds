@@ -2,70 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wulouniu.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-03T18:44:27.108Z</updated>
+    <updated>2026-07-04T08:08:10.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Flatiron Building (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Flatiron_Building</id>
-        <link href="https://en.wikipedia.org/wiki/Flatiron_Building"/>
-        <updated>2026-07-03T08:31:38.994Z</updated>
-        <content type="html"><![CDATA[... that past tenants of New York City's <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Flatiron_Building" title="Flatiron Building">Flatiron Building</a></b> <i>(pictured)</i> have included a consulate, musicians, and a crime syndicate?]]></content>
+        <title type="html"><![CDATA[James Smith (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)</id>
+        <link href="https://en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)"/>
+        <updated>2026-07-04T08:08:06.654Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician)" title="James Smith (Pennsylvania politician)">James Smith</a></b> <i>(pictured)</i> signed the U.S. Declaration of Independence even though he was not in Congress to vote on it on July<span typeof="mw:Entity">&nbsp;</span>4, 1776?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mo'Kalamity (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Mo'Kalamity</id>
-        <link href="https://en.wikipedia.org/wiki/Mo'Kalamity"/>
-        <updated>2026-07-03T08:31:38.995Z</updated>
-        <content type="html"><![CDATA[... that reggae musician <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Mo'Kalamity" title="Mo'Kalamity">Mo'Kalamity</a></b> derives her stage name from American frontierswoman <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Calamity_Jane" title="Calamity Jane">Calamity Jane</a>?]]></content>
+        <title type="html"><![CDATA[the opening number from 1776 (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Sit_Down,_John</id>
+        <link href="https://en.wikipedia.org/wiki/Sit_Down,_John"/>
+        <updated>2026-07-04T08:08:06.663Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Sit_Down,_John" title="Sit Down, John">the opening number from <i>1776</i></a></b> was quoted in the musical <i>Hamilton</i><span style="padding-left:0.15em;"><span typeof="mw:Entity">?</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Endeavor: Deep Sea (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Endeavor:_Deep_Sea</id>
-        <link href="https://en.wikipedia.org/wiki/Endeavor:_Deep_Sea"/>
-        <updated>2026-07-03T08:31:38.996Z</updated>
-        <content type="html"><![CDATA[... that the board game <i><b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Endeavor:_Deep_Sea" title="Endeavor: Deep Sea">Endeavor: Deep Sea</a></b></i>, in which players lead a group of marine-life specialists, won the industry Connoisseurs' Game of the Year award?]]></content>
+        <title type="html"><![CDATA[Manuel García de Sena (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Manuel_Garc%C3%ADa_de_Sena</id>
+        <link href="https://en.wikipedia.org/wiki/Manuel_Garc%C3%ADa_de_Sena"/>
+        <updated>2026-07-04T08:08:06.663Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Manuel_García_de_Sena" title="Manuel García de Sena">Manuel García de Sena</a></b><span class="nowrap"><span typeof="mw:Entity">'</span>s</span> 1811 translation of U.S. founding documents into Spanish influenced the first constitutions of Argentina, Chile, Mexico, Uruguay and Venezuela?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 China–US summit (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China</id>
-        <link href="https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China"/>
-        <updated>2026-07-03T08:31:39.001Z</updated>
-        <content type="html"><![CDATA[... that, for the <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_China" title="2026 state visit by Donald Trump to China">2026 China–US summit</a></b>, China used a transliteration of the US Secretary of State's name beginning with a character meaning 'reckless', 'clumsy', or 'crass'?]]></content>
+        <title type="html"><![CDATA[Faneuil Hall (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Faneuil_Hall</id>
+        <link href="https://en.wikipedia.org/wiki/Faneuil_Hall"/>
+        <updated>2026-07-04T08:08:06.664Z</updated>
+        <content type="html"><![CDATA[... that construction of Boston's <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Faneuil_Hall" title="Faneuil Hall">Faneuil Hall</a></b>, later to become the "Cradle of Liberty", was approved by a mere seven-vote majority?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Colin Queen (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Colin_Queen</id>
-        <link href="https://en.wikipedia.org/wiki/Colin_Queen"/>
-        <updated>2026-07-03T08:31:39.002Z</updated>
-        <content type="html"><![CDATA[... that Lamborghini-supported <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Colin_Queen" title="Colin Queen">Colin Queen</a></b> is a racing driver despite having a congenital heart defect?]]></content>
+        <title type="html"><![CDATA[the author of Liberia's declaration of independence (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Hilary_Teage</id>
+        <link href="https://en.wikipedia.org/wiki/Hilary_Teage"/>
+        <updated>2026-07-04T08:08:06.665Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Hilary_Teage" title="Hilary Teage">the author of Liberia's declaration of independence</a></b>, based on the United States's, was also the pastor of <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Providence_Baptist_Church" title="Providence Baptist Church">the church where it was signed</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rochdale v York City in April 2026 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Rochdale_A.F.C._1%E2%80%931_York_City_F.C._(2026)</id>
-        <link href="https://en.wikipedia.org/wiki/Rochdale_A.F.C._1%E2%80%931_York_City_F.C._(2026)"/>
-        <updated>2026-07-03T08:31:39.003Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Rochdale_A.F.C._1–1_York_City_F.C._(2026)" title="Rochdale A.F.C. 1–1 York City F.C. (2026)">Rochdale v York City in April<span typeof="mw:Entity">&nbsp;</span>2026</a></b> was the first time that a single English football league match was a title-decider since <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Liverpool_0–2_Arsenal_(1989)" title="Liverpool 0–2 Arsenal (1989)">Liverpool faced Arsenal in May<span typeof="mw:Entity">&nbsp;</span>1989</a>?]]></content>
+        <title type="html"><![CDATA[a widely read Chinese revolutionary tract (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Revolutionary_Army</id>
+        <link href="https://en.wikipedia.org/wiki/The_Revolutionary_Army"/>
+        <updated>2026-07-04T08:08:06.667Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/The_Revolutionary_Army" title="The Revolutionary Army">a widely read Chinese revolutionary tract</a></b> published in 1903 was influenced by the U.S. Declaration of Independence?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a teenager murdered in 2013 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Murder_of_%C3%81ngeles_Rawson</id>
-        <link href="https://en.wikipedia.org/wiki/Murder_of_%C3%81ngeles_Rawson"/>
-        <updated>2026-07-03T08:31:39.005Z</updated>
-        <content type="html"><![CDATA[... that a Buenos Aires public square was renamed in honor of <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Murder_of_Ángeles_Rawson" title="Murder of Ángeles Rawson">a teenager murdered in 2013</a></b>?]]></content>
+        <title type="html"><![CDATA[an All-American (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Tyrell_Fortune</id>
+        <link href="https://en.wikipedia.org/wiki/Tyrell_Fortune"/>
+        <updated>2026-07-04T08:08:06.667Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Tyrell_Fortune" title="Tyrell Fortune">an All-American</a></b> born on the Fourth of July said that he came back from the dead?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leon Milton Birkhead (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Leon_Milton_Birkhead</id>
-        <link href="https://en.wikipedia.org/wiki/Leon_Milton_Birkhead"/>
-        <updated>2026-07-03T08:31:39.010Z</updated>
-        <content type="html"><![CDATA[... that, after doctors told him he had a year to live, <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Leon_Milton_Birkhead" title="Leon Milton Birkhead">Leon Milton Birkhead</a></b> went into debt to visit Nazi Germany?]]></content>
+        <title type="html"><![CDATA[hundreds of replicas (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Monticello_replicas</id>
+        <link href="https://en.wikipedia.org/wiki/Monticello_replicas"/>
+        <updated>2026-07-04T08:08:06.667Z</updated>
+        <content type="html"><![CDATA[... that Thomas Jefferson's Monticello has inspired <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Monticello_replicas" title="Monticello replicas">hundreds of replicas</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhoda Palmer (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Rhoda_Palmer</id>
+        <link href="https://en.wikipedia.org/wiki/Rhoda_Palmer"/>
+        <updated>2026-07-04T08:08:06.669Z</updated>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Rhoda_Palmer" title="Rhoda Palmer">Rhoda Palmer</a></b> was the only signer of the pro–universal suffrage <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Declaration_of_Sentiments" title="Declaration of Sentiments">Declaration of Sentiments</a> known to have cast a vote?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[his own house (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Paul_Revere_House</id>
+        <link href="https://en.wikipedia.org/wiki/Paul_Revere_House"/>
+        <updated>2026-07-04T08:08:06.674Z</updated>
+        <content type="html"><![CDATA[... that, according to one historian, American patriot Paul Revere might not even recognize <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Paul_Revere_House" title="Paul Revere House">his own house</a></b>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Destination of the Month (Wikivoyage recommendations)]]></title>
         <id>https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month</id>
         <link href="https://en.wikivoyage.org/wiki/Previous_Destinations_of_the_month"/>
         <updated>2025-10-30T03:52:48.190Z</updated>
-        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt8" typeof="mw:Transclusion" id="mwIQ" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Cologne&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;CologneBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;Founded by the Romans, Germany's fourth largest city is known for its enormous cathedral and the Karneval in February.&quot;}},&quot;i&quot;:0}}]}"><style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles" about="#mwt9" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style></span><div class="banner-image js-proportonal-resize notheme" about="#mwt8" id="mwIg" style="font-size: 108%;">
+        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt8" typeof="mw:Transclusion" id="mwIQ" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Cologne&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;dotm&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;CologneBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;Founded by the Romans, Germany's fourth largest city is known for its enormous cathedral and the Karneval in February.&quot;}},&quot;i&quot;:0}}]}"><style data-mw-deduplicate="TemplateStyles:r4523569" typeof="mw:Extension/templatestyles" about="#mwt9" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style></span><div class="banner-image js-proportonal-resize notheme" about="#mwt8" id="mwIg">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
         <div style="position:relative; float:left; margin:-4px;">
@@ -83,7 +97,7 @@
         <id>https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path</id>
         <link href="https://en.wikivoyage.org/wiki/Previously_Off_the_beaten_path"/>
         <updated>2025-10-30T03:52:48.193Z</updated>
-        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt10" typeof="mw:Transclusion" id="mwJA" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Yellowknife&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;YellowknifeBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The capital of the Northwest Territories is one of Arctic Canada's few cities, and a gateway to the territory.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt11" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt10" id="mwJQ" style="font-size: 108%;">
+        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt10" typeof="mw:Transclusion" id="mwJA" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Yellowknife&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;otbp&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;YellowknifeBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The capital of the Northwest Territories is one of Arctic Canada's few cities, and a gateway to the territory.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt11" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt10" id="mwJQ">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
@@ -101,7 +115,7 @@
         <id>https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics</id>
         <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
         <updated>2025-10-30T03:52:48.194Z</updated>
-        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt12" typeof="mw:Transclusion" id="mwJw" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Wars of the Roses&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;WarsofRosesBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The civil wars that heralded the English Renaissance are still remembered and re-enacted.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwKA" style="font-size: 108%;">
+        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt12" typeof="mw:Transclusion" id="mwJw" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;left&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Wars of the Roses&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;WarsofRosesBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;The civil wars that heralded the English Renaissance are still remembered and re-enacted.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwKA">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-left" style="width:45%">
         <div style="position:relative; float:right; margin:-4px;">
