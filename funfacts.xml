@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-09T08:50:17.268Z</updated>
+    <updated>2026-07-09T19:04:24.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Execution_ballad" title="Execution ballad">a type of ballad</a></b> details the fictionalized last words of executed people?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a trans girl]]></title>
+        <title type="html"><![CDATA[a trans woman]]></title>
         <id>https://en.wikipedia.org/wiki/Susie_Pop</id>
         <link href="https://en.wikipedia.org/wiki/Susie_Pop"/>
         <updated>2026-07-09T08:50:13.800Z</updated>
-        <content type="html"><![CDATA[... that a fixture of Madrid nightlife in the 1990s was <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Susie_Pop" title="Susie Pop">a trans girl</a></b> who was often seen at concerts wearing a large picture hat?]]></content>
+        <content type="html"><![CDATA[... that a fixture of Madrid nightlife in the 1990s was <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Susie_Pop" title="Susie Pop">a trans woman</a></b> who was often seen at concerts wearing a large <a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Picture_hat" title="Picture hat">picture hat</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fae Farm]]></title>
