@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2026-07-14T07:23:10.665Z</updated>
+    <updated>2026-07-14T18:35:50.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -21,10 +21,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[stole a painting]]></title>
-        <id>https://en.wikipedia.org/wiki/Villiers-le-Bel_series</id>
-        <link href="https://en.wikipedia.org/wiki/Villiers-le-Bel_series"/>
-        <updated>2026-07-14T07:23:07.545Z</updated>
-        <content type="html"><![CDATA[... that in 1976, thieves tied up an art collector, <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Villiers-le-Bel_series" title="Villiers-le-Bel series">stole a painting</a></b>, and were never caught?]]></content>
+        <id>https://en.wikipedia.org/wiki/Villiers-le-Bel_series#Exhibitions</id>
+        <link href="https://en.wikipedia.org/wiki/Villiers-le-Bel_series#Exhibitions"/>
+        <updated>2026-07-14T18:35:47.408Z</updated>
+        <content type="html"><![CDATA[... that in 1976, thieves tied up an art collector, <b><a rel="mw:WikiLink" href="//en.wikipedia.org/wiki/Villiers-le-Bel_series#Exhibitions" title="Villiers-le-Bel series">stole a painting</a></b>, and were never caught?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Petite-Émigrée]]></title>
